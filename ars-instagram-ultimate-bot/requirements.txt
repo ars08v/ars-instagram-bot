@@ -1,0 +1,9 @@
+instagrapi
+groq
+pillow
+requests
+aiohttp
+Flask
+
+
+httpx
